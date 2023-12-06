@@ -1,3 +1,3 @@
 python_01: test
-python_02: ¹Ýº¹¹®
-pytnon_03: ¸®½ºÆ®
+python_02: ë°˜ë³µë¬¸
+pytnon_03: ë¦¬ìŠ¤íŠ¸

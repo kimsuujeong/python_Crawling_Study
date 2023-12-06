@@ -1,3 +1,3 @@
 python_01: test
-python_02: 반복문
-pytnon_03: 리스트
+python_02: �ݺ���
+pytnon_03: ����Ʈ
